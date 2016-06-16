@@ -1,0 +1,71 @@
+{
+  "vocabulary": [
+    {
+      "id": 2,
+      "word": "message",
+      "abbreviation": "msg",
+      "definition": "消息"
+    },
+    {
+      "id": 3,
+      "word": "application",
+      "abbreviation": "app",
+      "definition": "应用"
+    },
+    {
+      "id": 4,
+      "word": "infomation",
+      "abbreviation": "info",
+      "definition": "信息"
+    },
+    {
+      "word": "a",
+      "definition": "一个",
+      "abbreviation": "a",
+      "_input_charset": "utf-8",
+      "id": 5
+    },
+    {
+      "word": "b",
+      "definition": "b",
+      "abbreviation": "b",
+      "_input_charset": "utf-8",
+      "id": 6
+    },
+    {
+      "word": "sdfsdf",
+      "definition": "sdfsdfsdf",
+      "abbreviation": "sdfsd",
+      "_input_charset": "utf-8",
+      "id": 9
+    },
+    {
+      "word": "fda",
+      "definition": "dfa",
+      "abbreviation": "dfa",
+      "_input_charset": "utf-8",
+      "id": 11
+    },
+    {
+      "word": "zzz",
+      "definition": "zzz",
+      "abbreviation": "zzz",
+      "_input_charset": "utf-8",
+      "id": 12
+    },
+    {
+      "word": "sss",
+      "definition": "sss",
+      "abbreviation": "sss",
+      "_input_charset": "utf-8",
+      "id": 13
+    },
+    {
+      "word": "xxx",
+      "definition": "xxx",
+      "abbreviation": "xxx",
+      "_input_charset": "utf-8",
+      "id": 14
+    }
+  ]
+}
